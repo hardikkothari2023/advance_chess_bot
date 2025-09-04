@@ -1,0 +1,9 @@
+pyautogui
+opencv-python
+numpy
+chess
+Pillow
+tensorflow
+scikit-learn
+jupyter
+rich
